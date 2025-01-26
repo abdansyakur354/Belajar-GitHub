@@ -1,4 +1,8 @@
 Jenis-Jenis Bahasa Pemogramman
+o HTML 
+  HTML singkatan dari Hyper Text Markup Language
+o CSS
+  CSS singkatan dari Cascading Style Sheet
 o JavaScript
 o PHP
 o Python
