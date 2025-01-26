@@ -1,14 +1,14 @@
-Jenis-Jenis Bahasa Pemogramman
+              Jenis-Jenis Bahasa Pemogramman
 o HTML 
   HTML singkatan dari Hyper Text Markup Language
 o CSS
   CSS singkatan dari Cascading Style Sheet
 o JavaScript
   Framework JS
-  - React JS
-  - Vue
+    - Vue
+    - React js
 o PHP
   Framework PHP
-  - Laravel
+    - Laravel
 o Python
 o Bash
