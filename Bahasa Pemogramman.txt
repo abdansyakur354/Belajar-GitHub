@@ -4,6 +4,11 @@ o HTML
 o CSS
   CSS singkatan dari Cascading Style Sheet
 o JavaScript
+  Framework JS
+  - React JS
+  - Vue
 o PHP
+  Framework PHP
+  - Laravel
 o Python
 o Bash
