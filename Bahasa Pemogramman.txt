@@ -1,5 +1,5 @@
 Jenis-Jenis Bahasa Pemogramman
-o HTML
-o CSS
 o JavaScript
 o PHP
+o Python
+o Bash
